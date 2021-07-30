@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637405667554",
+    "project_id": "thestraycatkt",
+    "storage_bucket": "thestraycatkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637405667554:android:2bdb2f5f4d18e4ccf1bebb",
+        "android_client_info": {
+          "package_name": "com.example.thestraycathelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637405667554-57grnj6p4k94rn757830ebv03fqrfg16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmAjjxxhZ3RDGYh6fxic472ASXryx4dw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637405667554-57grnj6p4k94rn757830ebv03fqrfg16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
